@@ -125,3 +125,9 @@ Bob: Hello. How may I help you today?
 User: Please tell me the largest city in Europe.
 Bob: Sure. The largest city in Europe is Moscow, the capital of Russia.
 ```
+
+## Integration with LangChain
+
+To be continued here:
+- https://python.langchain.com/docs/guides/local_llms
+- https://python.langchain.com/docs/use_cases/question_answering/how_to/local_retrieval_qa
